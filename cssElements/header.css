@@ -1,0 +1,69 @@
+header .container {
+  margin-top: 50px;
+}
+
+.head {
+  float: left;
+}
+
+.head a {
+  font-size: 40px; font-weight: 900;
+}
+
+.head p {
+  margin-top: -1px;
+  font-size: 20px;
+  opacity: 0.7;
+}
+
+.menu {
+  float: right;
+  padding-top: 45px;
+}
+
+.menu a {
+  margin-right: 40px;
+  font-size: 18px;
+}
+
+.menu a:hover {
+  color: rgb(243, 129, 36);
+}
+
+header ul {
+  display: inline-block;
+  position: absolute;
+  width: 230px;
+  padding: 0;
+  font-size: 20px;
+  list-style: none;
+  text-align: left;
+  display: none;
+  background-color: white;
+}
+
+header li {
+  padding: 10px;
+  border: 1px solid rgb(228, 226, 226);
+}
+
+header li:hover {
+  color: rgb(243, 129, 36);
+}
+
+.sub-home {
+   top: 130px; left: 28%;
+}
+
+.sub-page {
+  top: 130px; left: 38%;
+}
+
+.search {
+  padding-left: 150px;
+}
+
+header input {
+  position: absolute; top: 130px; right: 11%;
+  width: 200px; height: 30px;
+}

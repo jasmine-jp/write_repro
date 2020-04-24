@@ -1,0 +1,31 @@
+.news {
+  margin-bottom: 200px;
+}
+
+.new {
+  display: flex;
+}
+
+.date {
+  width: 250px;
+}
+
+.cent {
+  margin-left: 175px;
+}
+
+.cent h1 {
+  width: 100px;
+}
+
+.cent h1:hover {
+  color: rgb(243, 129, 36);
+}
+
+.date {
+  opacity: 0.7;
+}
+
+.cent p {
+  opacity: 0.8;
+}

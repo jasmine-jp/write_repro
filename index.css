@@ -1,0 +1,13 @@
+body {
+  font-family: Georgia, '游明朝', 'Hiragino Mincho ProN', serif;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.container {
+  width: 84%;
+  margin: 0 auto;
+}
